@@ -1,0 +1,1 @@
+insert into Startup (razaoSocial, 'cnpj', 'endereco') values ('Mambeers', '12.345.678/0009-87', 'Rua Sao Vicente 265');
